@@ -1,1 +1,1 @@
-just learning
+some basic C programs 
